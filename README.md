@@ -1,3 +1,4 @@
+Wandb Run: [link](https://wandb.ai/kajuyerim-bo-azi-i-niversitesi/Fine%20tuning%20LLama3.1%208b%20for%20Sentimental%20Analysis%20on%20Financial%20Domain/runs/3wqscyc9?nw=nwuserkajuyerim)
 # LoRA Guide on LLaMA 3.1
 
 This repository provides a detailed guide on fine-tuning the LLaMA 3.1 model using Low-Rank Adaptation (LoRA). The focus is on applying LoRA to optimize the fine-tuning process, particularly when working with limited computational resources.
